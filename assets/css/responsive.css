@@ -1,0 +1,385 @@
+/*******************************************************
+    Template Name    : Snoki - SEO Agency & Business HTML Landing Page
+    Author           : Cute Themes
+    Version          : 1.0
+    Created          : 2020
+    File Description : Main Reaposive file of the template
+*******************************************************/
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+
+	/* video home */
+	.video-home {
+		min-height: 570px;
+	}
+	.about-main-banner img {
+		width: 100%;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+		padding-right: 0;
+	}
+	.home-area .home-content {
+		margin-bottom: 35px;
+		text-align: center;
+	}
+	.home-area .home-content h1 {
+		font-size: 35px;
+		line-height: 1.3;
+	}
+	.home-area {
+		padding-top: 170px;
+		padding-bottom: 40px;
+	}
+	/* video home */
+	.video-home .video-wrapper {
+		display: none;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.video-area {
+		min-height: 420px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 35px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: 250px;
+		overflow-y: scroll;
+	}
+	.home-area .home-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 35px;
+		line-height: 1.3;
+	}
+	.home-area .home-content p {
+		font-size: 14px;
+	}
+	/* slider */
+	.slider .parallax-slider .caption h1 {
+		font-size: 33px;
+	}
+	/* video home */
+	.video-home .video-wrapper {
+		display: none;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.project-area .project-list .nav li {
+		margin: 10px 5px;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.video-area {
+		min-height: 375px;
+	}
+	.awards-single-item {
+		padding: 20px 15px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 35px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+}
+
+
+@media only screen and (max-width: 479px) {
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	.home-area .home-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 30px;
+		margin-bottom: 18px;
+	}
+	.home-area .home-content p {
+		font-size: 14px;
+	}
+	/* slider */
+	.slider .parallax-slider .caption h1 {
+		font-size: 32px;
+	}
+	/* video home */
+	.video-home .video-wrapper {
+		display: none;
+	}
+	.about-content h2 {
+		font-size: 30px;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.project-area .project-list .nav li {
+		margin: 10px 5px;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.hire-content h5 {
+		font-size: 20px;
+	}
+	.hire-content h2 {
+		font-size: 40px;
+	}
+	.video-area {
+		min-height: 200px;
+		padding: 0;
+	}
+	.video-content h5 {
+		font-size: 18px;
+	}
+	.video-content h2 {
+		font-size: 40px;
+	}
+	.awards-single-item {
+		padding: 40px 65px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 0px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px){
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: auto;
+		overflow-y: scroll;
+	}
+	.home-area .home-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 30px;
+		margin-bottom: 18px;
+	}
+	.home-area .home-content p {
+		font-size: 14px;
+	}
+	/* slider */
+	.slider .parallax-slider .caption h1 {
+		font-size: 28px;
+	}
+	/* video home */
+	.video-home .video-wrapper {
+		display: none;
+	}
+	.about-content h2 {
+		font-size: 27px;
+	}
+	.about-image-wrapper {
+		margin-top: 35px;
+	}
+	.about-main-banner img {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.about-banner-1 {
+		display: none;
+	}
+	.about-banner-2 {
+		display: none;
+	}
+	.single-counter {
+		padding: 15px 0;
+	}
+	.overview-img {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: center;
+	}
+	.project-area .project-list .nav li {
+		margin: 10px 5px;
+	}
+	.single-price-wrap.middle-price {
+		transform: unset;
+	}
+	.faq-img {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.hire-content h5 {
+		font-size: 18px;
+	}
+	.hire-content h2 {
+		font-size: 33px;
+	}
+	.video-area {
+		min-height: 190px;
+		padding: 0;
+	}
+	.video-content h5 {
+		font-size: 15px;
+	}
+	.video-content h2 {
+		font-size: 30px;
+	}
+	.awards-single-item {
+		padding: 40px 65px;
+	}
+	.contact-info {
+		padding-left: 0;
+		margin-top: 35px;
+	}
+	.footer-about {
+		margin-top: 0px;
+	}
+	.footer-list {
+		padding-left: 0;
+		margin-top: 35px;
+		text-align: left;
+	}
+	
+}
